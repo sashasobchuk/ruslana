@@ -1,0 +1,11 @@
+{
+  "serverPort": "5001",
+  "dbUrl": "mongodb+srv://ruslana:ruslanasasha@cluster0.ni5mv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "filePath": "C:\\Users\\sasha\\OneDrive\\Робочий стіл\\rDeploy\\server",
+  "staticPath": "C:\\Users\\sasha\\OneDrive\\Робочий стіл\\rDeploy\\server\\static",
+  "videoStaticPath": "C:\\Users\\sasha\\OneDrive\\Робочий стіл\\rDeploy\\server\\static\\videoStaticPath",
+  "secretKey": "mysecretkey 0c8afjlk"
+}
+
+
+
